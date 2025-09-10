@@ -1,0 +1,10 @@
+/*
+Theme Name: ServiceConnect
+Description: A minimalist white and gold service marketplace WordPress theme
+Version: 1.0
+Author: ServiceConnect
+Text Domain: serviceconnect
+*/
+
+/* Import the main styles */
+@import url('assets/css/main.css');
